@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamm59&theme=monokai&hide=contribs,prs,stars&show_icons=true)
 <!--
 **jamm59/jamm59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
