@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  Hi, I'm moben, Software developer 
+  I'm moben, Software developer 
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Aberdeen University UK Computing Science 
